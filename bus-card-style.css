@@ -16,7 +16,7 @@ body {
   .card
   
   /* Rulesets to be matched up with selectors */
-  
+  /*"General page styles"*/
   .card{
     width: 35em;
     height: 22em;
@@ -40,4 +40,6 @@ body {
     max-height: 100%
     float: right;
   }
-  
+  /*styles specific to the setup of the card container*/
+  /*styles specific to the header and footer*/
+  /*styles specific to the main business card contents*/
